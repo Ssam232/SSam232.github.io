@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gone to Kannanaskis
-date: 2025-09-24 12:00:00-0600
+date: 2025-10-24 12:00:00-0600
 description: Packing up and heading out to the Alberta Biomedical Engineering symposium in Kananaskis.
 tags: symposium bme travel kananaskis
 categories: Research
