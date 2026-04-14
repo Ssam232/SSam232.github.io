@@ -1,17 +1,16 @@
 ---
 layout: page
 title: KNES 381 Demos
-nav: true
 permalink: /knes-381/
+nav: true
 ---
 
-This page is dedicated to demonstrating applied computation concepts and projects developed for the KNES 381 course.
+This page hosts my interactive Excel computational tool designed for exploring various athlete performance metrics.
 
 ## Interactive Excel Dashboard
 
-<!-- Placeholder for iframe -->
-*Interactive Excel Dashboard iframe will go here.*
+<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://uofc-my.sharepoint.com/personal/samad_ahmed1_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc={e471dd31-1b4a-4827-ab08-121ef37cbab4}&action=embedview&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
-## File Download
+## Raw Data Details
 
-[Download the related file here](#) <!-- Replace "#" with the actual file path when ready -->
+[Download the raw Excel file to inspect the formulas and slicer logic](../assets/data/realistic_athlete_performance_revised.xlsx)
