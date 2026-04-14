@@ -272,7 +272,22 @@
       "icon": "fa-solid fa-volleyball"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Counting What Counts: Ensuring Wearable Step-Count Validity for Effective Public Health Interventions",
+      "publisher": "medRxiv",
+      "releaseDate": "2025-05-24",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.05.24.25328291v1.full",
+      "summary": "A study examining the validity of wearable device step-count measurements and their implications for public health intervention effectiveness."
+    },
+    {
+      "name": "Stepping in Place (SIP) as a Novel Physical Ability Assessment in Neurorehabilitation: A Wearable Device-based Validation Study",
+      "publisher": "medRxiv",
+      "releaseDate": "2024-04-30",
+      "url": "https://www.medrxiv.org/content/10.1101/2024.04.30.24306653v1",
+      "summary": "A validation study of a novel stepping-in-place protocol as a physical ability assessment tool in neurorehabilitation, using wearable devices to capture gait and performance parameters."
+    }
+  ],
   "skills": [
     {
       "name": "Technical Skills",
