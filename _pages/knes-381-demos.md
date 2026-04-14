@@ -5,7 +5,7 @@ permalink: /knes-381/
 nav: true
 ---
 
-This page hosts my interactive Excel computational tool designed for exploring various athlete performance metrics.
+This page hosts my demos for KNES 381.
 
 ## Interactive Excel Dashboard
 
@@ -18,17 +18,17 @@ This page hosts my interactive Excel computational tool designed for exploring v
     <p>The system is built using Excel formulas and linked visualizations. All charts are generated from the data and respond instantly to user input, demonstrating dynamic computation rather than static display.</p>
   </div>
   <div class="col-md-7 d-flex justify-content-center">
-    <iframe width="700" height="600" frameborder="0" scrolling="no" src="https://uofc-my.sharepoint.com/personal/samad_ahmed1_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc={e471dd31-1b4a-4827-ab08-121ef37cbab4}&action=embedview&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+    <iframe width="800" height="600" frameborder="0" scrolling="no" src="https://uofc-my.sharepoint.com/personal/samad_ahmed1_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc={e471dd31-1b4a-4827-ab08-121ef37cbab4}&action=embedview&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
   </div>
 </div>
 
-## Raw Data Details
+### Raw Data Details
 
 [Download the raw Excel file to inspect the formulas and slicer logic](../assets/data/realistic_athlete_performance_revised.xlsx)
 
 ## Scratch Logic Component
 
-This interactive maze demonstrates fundamental computational logic.
+This is a scratch maze game I made earlier in the semester.
 
 <div class="row mt-4 align-items-start">
   <div class="col-md-7 d-flex justify-content-center">
@@ -49,5 +49,18 @@ This interactive maze demonstrates fundamental computational logic.
 
     <p><strong>Variables:</strong><br>
     I used lives, timer, and level variables to control the game.</p>
+  </div>
+</div>
+
+## Python Data Analysis (Kaggle)
+
+<div class="row mt-4 align-items-start">
+  <div class="col-md-5 mt-4 mt-md-0">
+    <p>This Python notebook explores athlete performance data using data analysis and visualization techniques. It processes the same dataset used in the Excel dashboard, but leverages Python libraries to produce statistical insights and plots.</p>
+
+    <p>The notebook walks through data cleaning, exploratory analysis, and chart generation. It demonstrates how computational thinking can be applied to real-world sports science data in a reproducible, code-based environment.</p>
+  </div>
+  <div class="col-md-7 d-flex justify-content-center">
+    <iframe src="https://www.kaggle.com/embed/ssamadahmed/knes-381-python" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
   </div>
 </div>
