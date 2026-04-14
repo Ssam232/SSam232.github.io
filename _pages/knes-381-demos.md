@@ -61,6 +61,6 @@ This is a scratch maze game I made earlier in the semester.
     <p>The notebook walks through exploratory analysis, and chart generation. It demonstrates how computational thinking can be applied to real-world sports science data in a reproducible, code-based environment.</p>
   </div>
   <div class="col-md-7 d-flex justify-content-center">
-    {% jupyter_notebook "/assets/Notebooks/knes-381-python.ipynb" %}
+    <iframe src="https://nbviewer.org/github/Ssam232/SSam232.github.io/blob/main/assets/Notebooks/knes-381-python.ipynb" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
   </div>
 </div>
