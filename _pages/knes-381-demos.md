@@ -56,11 +56,11 @@ This is a scratch maze game I made earlier in the semester.
 
 <div class="row mt-4 align-items-start">
   <div class="col-md-5 mt-4 mt-md-0">
-    <p>This Python notebook explores athlete performance data using data analysis and visualization techniques. It processes the same dataset used in the Excel dashboard, but leverages Python libraries to produce statistical insights and plots.</p>
+    <p>This Python notebook explores athlete performance data using data analysis and visualization techniques. It leverages Python libraries to produce statistical insights and plots.</p>
 
-    <p>The notebook walks through data cleaning, exploratory analysis, and chart generation. It demonstrates how computational thinking can be applied to real-world sports science data in a reproducible, code-based environment.</p>
+    <p>The notebook walks through exploratory analysis, and chart generation. It demonstrates how computational thinking can be applied to real-world sports science data in a reproducible, code-based environment.</p>
   </div>
   <div class="col-md-7 d-flex justify-content-center">
-    <iframe src="https://www.kaggle.com/embed/ssamadahmed/knes-381-python" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
+    <iframe src="/assets/Notebooks/knes-381-python.html" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
   </div>
 </div>
