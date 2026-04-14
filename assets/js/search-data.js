@@ -90,6 +90,17 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2026/welcome-to-my-blog/";
           
         },
+      },{id: "post-gone-to-kannanaskis",
+        
+          title: "Gone to Kannanaskis",
+        
+        description: "Packing up and heading out to the Alberta Biomedical Engineering symposium in Kananaskis.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/gone-to-kannanaskis/";
+          
+        },
       },{id: "post-the-reality-of-muscle-fiber-isolation",
         
           title: "The Reality of Muscle Fiber Isolation",
@@ -99,6 +110,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/al-folio/blog/2025/the-reality-of-muscle-fiber-isolation/";
+          
+        },
+      },{id: "post-bme-symposium-dry-run",
+        
+          title: "BME Symposium Dry Run",
+        
+        description: "A reflection on my dry run presentation for the upcoming Alberta Biomedical Engineering symposium.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/bme-symposium-dry-run/";
           
         },
       },{id: "post-starting-my-honors-thesis",
