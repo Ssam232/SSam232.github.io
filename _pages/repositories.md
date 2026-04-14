@@ -35,13 +35,32 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-{% if site.data.repositories.github_repos %}
+## Featured Projects
 
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+<div class="row mb-5 align-items-center">
+  <div class="col-md-6 d-flex justify-content-center">
+    {% include repository/repo.liquid repository="SSam232/Volunteer-Scheduler-V3" %}
+  </div>
+  <div class="col-md-6 mt-3 mt-md-0">
+    <p>This is a volunteer scheduling tool built with Python and Streamlit explicitly for the PEMRAP team at the Alberta Children's Hospital. It organizes shift registrations effectively and prevents scheduling overlaps.</p>
+    <p><a href="https://volunteer-scheduler-v3.streamlit.app/" target="_blank" rel="noopener noreferrer">View the live application here!</a></p>
+  </div>
 </div>
-{% endif %}
+
+<div class="row mb-5 align-items-center">
+  <div class="col-md-6 d-flex justify-content-center">
+    {% include repository/repo.liquid repository="SSam232/knes381" %}
+  </div>
+  <div class="col-md-6 mt-3 mt-md-0">
+    <p>A repository containing my KNES 381 assignments, projects, and computational demonstrations. It showcases my exploration of data analysis and programming applied to kinesiology.</p>
+  </div>
+</div>
+
+<div class="row mb-5 align-items-center">
+  <div class="col-md-6 d-flex justify-content-center">
+    {% include repository/repo.liquid repository="SSam232/SSam232.github.io" %}
+  </div>
+  <div class="col-md-6 mt-3 mt-md-0">
+    <p>The source code behind the personal portfolio website you are currently viewing! Built using Jekyll and the versatile open-source al-folio theme.</p>
+  </div>
+</div>
