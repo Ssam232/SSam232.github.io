@@ -64,3 +64,38 @@ This is a scratch maze game I made earlier in the semester.
     <iframe src="https://nbviewer.org/github/Ssam232/SSam232.github.io/blob/main/assets/Notebooks/knes-381-python.ipynb" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
   </div>
 </div>
+
+## Video Analysis
+
+<div class="row mt-4 align-items-start">
+  <div class="col-md-5 mt-4 mt-md-0">
+    <p><strong>Movement:</strong> Flying Kick</p>
+
+    <p>This analysis examines the biomechanics of a flying kick using video capture and frame-by-frame breakdown. Joint angles at the hip, knee, and ankle were tracked throughout the movement to quantify the kinematic chain involved in generating and transferring force.</p>
+
+    <p>Key phases analyzed include the takeoff, airborne extension, and strike position. Angle measurements were taken at peak extension to evaluate alignment and mechanical efficiency of the kick.</p>
+
+    <p>The still shots below highlight two critical frames capturing the body position at key moments during the movement, demonstrating how joint angles change through the full range of motion.</p>
+  </div>
+  <div class="col-md-7 d-flex justify-content-center">
+    <video width="100%" height="auto" controls>
+      <source src="{{ '/assets/video/2026-03-31_12-26-22.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-md-6 d-flex justify-content-center">
+    <figure class="text-center">
+      <img src="{{ '/assets/img/IMG_6897_Still shot 2.jpg' | relative_url }}" class="img-fluid rounded" alt="Flying kick still shot 2" style="max-height: 350px; object-fit: cover;">
+      <figcaption class="mt-2 text-muted"><em>Still Shot 1 — Takeoff &amp; Initial Extension</em></figcaption>
+    </figure>
+  </div>
+  <div class="col-md-6 d-flex justify-content-center">
+    <figure class="text-center">
+      <img src="{{ '/assets/img/IMG_6897_Still shot 3.jpg' | relative_url }}" class="img-fluid rounded" alt="Flying kick still shot 3" style="max-height: 350px; object-fit: cover;">
+      <figcaption class="mt-2 text-muted"><em>Still Shot 2 — Peak Strike Position</em></figcaption>
+    </figure>
+  </div>
+</div>
