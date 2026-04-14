@@ -90,6 +90,17 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2026/welcome-to-my-blog/";
           
         },
+      },{id: "post-the-reality-of-muscle-fiber-isolation",
+        
+          title: "The Reality of Muscle Fiber Isolation",
+        
+        description: "A reality check as I begin the tedious process of isolating muscle fibers for my honors thesis.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/the-reality-of-muscle-fiber-isolation/";
+          
+        },
       },{id: "post-starting-my-honors-thesis",
         
           title: "Starting My Honors Thesis!",
