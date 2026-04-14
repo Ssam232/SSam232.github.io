@@ -90,6 +90,17 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2026/welcome-to-my-blog/";
           
         },
+      },{id: "post-back-from-kananaskis",
+        
+          title: "Back from Kananaskis",
+        
+        description: "A reflection on the Alberta Biomedical Engineering symposium in Kananaskis and the drive home.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/back-from-kananaskis/";
+          
+        },
       },{id: "post-gone-to-kannanaskis",
         
           title: "Gone to Kannanaskis",
