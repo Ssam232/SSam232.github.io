@@ -14,3 +14,9 @@ This page hosts my interactive Excel computational tool designed for exploring v
 ## Raw Data Details
 
 [Download the raw Excel file to inspect the formulas and slicer logic](../assets/data/realistic_athlete_performance_revised.xlsx)
+
+## Scratch Logic Component
+
+This interactive maze demonstrates fundamental computational logic.
+
+<!-- <iframe src="https://scratch.mit.edu/projects/1288422455/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe> -->
