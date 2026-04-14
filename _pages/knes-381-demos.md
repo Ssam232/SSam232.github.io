@@ -19,4 +19,6 @@ This page hosts my interactive Excel computational tool designed for exploring v
 
 This interactive maze demonstrates fundamental computational logic.
 
-<!-- <iframe src="https://scratch.mit.edu/projects/1288422455/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe> -->
+<div class="row justify-content-center mt-4">
+  <iframe src="https://scratch.mit.edu/projects/1288422455/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
+</div>
