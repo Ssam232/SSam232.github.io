@@ -1,20 +1,20 @@
 ---
 layout: post
-title: The Update Presentation
-date: 2025-12-04 12:00:00-0600
-description: Reflecting on a thesis update presentation that did not go the way I hoped.
-tags: thesis research presentations
-categories: Research
+title: New Year, New Life
+date: 2026-01-15 12:00:00-0600
+description: Reflecting on everything 2025 threw at me and setting my sights on what 2026 needs to be.
+tags: thesis research reflection
+categories: General
 ---
 
-So I had my thesis update presentation today. The idea was to walk everyone through all the prep work I have done so far, the experimental protocol, the Excel pipeline I built, and where things stand with data collection. I spent a lot of time getting the slides together and making sure the content was solid. I genuinely felt prepared going into it.
+2025 was genuinely one of the most intense years of my life. Between the symposiums, the fiber isolation practice sessions, the Kananaskis trip, and that December presentation that humbled me more than I expected, it was a year that pushed me in ways I did not fully anticipate when it started.
 
-It did not go the way I wanted.
+But I am glad it did.
 
-Looking back, I know I spoke way too fast. I tend to do that when I am nervous and today was no exception. I just kept pushing through slide after slide without giving anything room to breathe. I also know I was not animated enough. I was so focused on getting through the material that I probably came across as flat. Stiff. Like I was just reading bullet points and trying to get it over with.
+I came into my honors thesis thinking I had a solid handle on what the year would look like. And in a lot of ways, I did. The research itself has been exactly as fascinating as I hoped. The myofilament mechanics, the data pipelines, the long hours in the lab — all of it has been deeply rewarding. What I did not fully account for was how much the non-science parts of research would challenge me. The communication. The presentations. The ability to make a room feel your enthusiasm instead of just telling them about it.
 
-The comment that stung the most was hearing that it felt like I was uninterested and wanted to leave. That one genuinely hurt. Because the reality could not be further from the truth. I love this project. I think about it constantly. The mechanics of the papillary muscle, the data we are generating, all of it fascinates me. But somehow when I get up in front of people, all of that excitement just does not translate. It gets buried under nerves and I end up sounding monotone.
+That December presentation was a wake-up call I needed. I have been carrying that feedback with me into the new year and I am determined to do something productive with it.
 
-It is frustrating because I know the enthusiasm is there. I just struggle to let it show when I am presenting. It is something I have always dealt with and clearly still need to work on.
+So here is what 2026 looks like from where I am standing: the data collection phase of my thesis is in full swing, and the finish line is closer than it has ever been. I have a poster presentation coming up that I plan to absolutely nail. And I am going into it with a completely different mindset than I had a few months ago — slower, more grounded, and ready to actually let the passion I have for this work show through.
 
-I would be lying if I said this did not make me question my competence a little. When you put real effort into something and the feedback suggests otherwise, it is hard not to internalize that. But I am choosing to take this in stride. One rough presentation does not define the quality of my work or how much I care about it. If anything, it is just another thing to grow from. Slow down, be more expressive, let the passion come through. I will get there. 💪
+New year, new life. Let's finish this strong. 🔬🎯

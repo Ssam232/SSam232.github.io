@@ -1,7 +1,7 @@
 ---
 layout: post
 title: McCaig Summer Symposium Presentation
-date: 2025-07-13 12:00:00-0600
+date: 2025-08-13 12:00:00-0600
 description: A reflection on my presentation at the McCaig Summer Symposium discussing the structural properties of cardiac muscle.
 tags: research symposium mccaig
 categories: Research
