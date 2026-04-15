@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_format: jsonresume 
+cv_format: jsonresume
 description: Academic background, research experience, technical skills, and volunteer history.
 toc:
   sidebar: left

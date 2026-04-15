@@ -16,6 +16,7 @@ This page hosts my demos for KNES 381.
     <p>Users can interact with the data using slicers to filter by athlete or category. As selections change, the charts and tables update automatically. This allows for direct comparison and helps identify patterns in performance.</p>
 
     <p>The system is built using Excel formulas and linked visualizations. All charts are generated from the data and respond instantly to user input, demonstrating dynamic computation rather than static display.</p>
+
   </div>
   <div class="col-md-7 d-flex justify-content-center">
     <iframe width="800" height="600" frameborder="0" scrolling="no" src="https://uofc-my.sharepoint.com/personal/samad_ahmed1_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc={e471dd31-1b4a-4827-ab08-121ef37cbab4}&action=embedview&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
@@ -49,6 +50,7 @@ This is a scratch maze game I made earlier in the semester.
 
     <p><strong>Variables:</strong><br>
     I used lives, timer, and level variables to control the game.</p>
+
   </div>
 </div>
 
@@ -59,6 +61,7 @@ This is a scratch maze game I made earlier in the semester.
     <p>This Python notebook explores athlete performance data using data analysis and visualization techniques. It leverages Python libraries to produce statistical insights and plots.</p>
 
     <p>The notebook walks through exploratory analysis, and chart generation. It demonstrates how computational thinking can be applied to real-world sports science data in a reproducible, code-based environment.</p>
+
   </div>
   <div class="col-md-7 d-flex justify-content-center">
     <iframe src="https://nbviewer.org/github/Ssam232/SSam232.github.io/blob/main/assets/Notebooks/knes-381-python.ipynb" height="800" width="100%" frameborder="0" scrolling="auto"></iframe>
@@ -76,6 +79,7 @@ This is a scratch maze game I made earlier in the semester.
     <p>Key phases analyzed include the takeoff, airborne extension, and strike position. Angle measurements were taken at peak extension to evaluate alignment and mechanical efficiency of the kick.</p>
 
     <p>The still shots below highlight two critical frames capturing the body position at key moments during the movement, demonstrating how joint angles change through the full range of motion.</p>
+
   </div>
   <div class="col-md-7 d-flex justify-content-center">
     <video width="100%" height="auto" controls>

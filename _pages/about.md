@@ -28,7 +28,7 @@ latest_posts:
 
 Welcome to my personal website!
 
-I am currently completing my final year of undergraduate studies in **Kinesiology**. Alongside my coursework, I am conducting my Honours Thesis at the **Herzog Lab**. 
+I am currently completing my final year of undergraduate studies in **Kinesiology**. Alongside my coursework, I am conducting my Honours Thesis at the **Herzog Lab**.
 
 My research is primarily focused on investigating the **structural and mechanical impacts of obesity on the left ventricle** in rat models. Through this work, I aim to contribute to a deeper understanding of cardiovascular biomechanics and how metabolic conditions affect heart function.
 
