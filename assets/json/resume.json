@@ -7,13 +7,19 @@
     "phone": "587-664-1192",
     "summary": "Undergraduate student in Kinesiology with a strong focus on clinical research, data analysis, and community engagement. Experienced in advanced physiological research methods, community coaching, and digital health initiatives.",
     "location": {
-      "address": "Lucas Way Nw",
+      "address": "Livingston Nw",
       "postalCode": "T3P",
       "city": "Calgary",
       "countryCode": "CA",
       "region": "AB"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "abdul-samad-ahmed-9196a1391",
+        "url": "https://www.linkedin.com/in/abdul-samad-ahmed-9196a1391/"
+      }
+    ]
   },
   "research": [
     {
