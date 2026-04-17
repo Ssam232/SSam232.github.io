@@ -251,7 +251,9 @@ layout: default
               {% if basics.profiles %}
                 {% for profile in basics.profiles %}
                   <tr>
-                    <td class="p-1 pr-2 font-weight-bold"><b>{{ profile.network }}</b></td>
+                    <td class="p-1 pr-2 font-weight-bold">
+                      <b>{{ profile.network }}</b>
+                    </td>
                     <td class="p-1 pl-2 font-weight-light">
                       <a href="{{ profile.url }}" target="_blank">{{ profile.url }}</a>
                     </td>
