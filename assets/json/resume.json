@@ -15,7 +15,7 @@
     },
     "profiles": []
   },
-  "work": [
+  "research": [
     {
       "name": "Herzog Group, Human Performance Lab, University of Calgary",
       "position": "Honors Student",
@@ -41,7 +41,9 @@
         "Evaluated links between altered mitochondrial characteristics and risks associated with heart failure with preserved ejection fraction in female subjects.",
         "Assessed experimental limitations and biological variability to improve the interpretation and reporting of mitochondrial data."
       ]
-    },
+    }
+  ],
+  "work": [
     {
       "name": "Open Digital Health, University of Calgary",
       "position": "Student Researcher & Coordinator",
@@ -66,7 +68,7 @@
       "highlights": [
         "Marked assignments and classwork completed by students.",
         "Maintained a focused learning environment and prepared materials prior to student arrival.",
-        "Opened, managed, and closed the center in the owner’s absence."
+        "Opened, managed, and closed the center in the owner's absence."
       ]
     },
     {
